@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>
 <h3 align="center">A passionate backend/fullstack developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=Profile%20views&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio" alt="castorhrio" /></a> </p>
 
@@ -45,11 +45,12 @@
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/Xyris.Sakana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Xyris.Sakana" /></a></p><br><br>
 
-<h3 align="left"></h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio" /></p>
-
-<h3 align="left"></h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" /></p>
-
-<h3 align="left"></h3>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=castorhrio&theme=highcontrast" alt="castorhrio" /></p>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio" />
+</div>
+<p></p>
+<div align="center"> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=castorhrio&theme=highcontrast" alt="castorhrio" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=castorhrio&theme=xcode" /> 
+</div>
