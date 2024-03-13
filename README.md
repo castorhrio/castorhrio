@@ -1,6 +1,10 @@
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> A passionate backend/fullstack developer from China</h3>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" />
+  <h3 align="center">  A passionate backend/fullstack developer from China</h3>
+</p>
+
 
 <p align="center">
   
