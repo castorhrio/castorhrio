@@ -26,11 +26,13 @@
 ### 🔥 &nbsp; My Stats 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castorhrio&bg_color=291e1e&color=8bfdf6&line=ffffff&point=82c2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" width="400"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio"/>
+</p>
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" align="left"/></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&column=4&row=2" alt="castorhrio" /></a>
 </p>
 <p align="right"></p>
