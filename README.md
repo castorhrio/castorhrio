@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=350" alt="GitHub Streak" align="left"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" align="left"/></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&column=4&row=2" alt="castorhrio" /></a>
 </p>
 <p align="right"></p>
