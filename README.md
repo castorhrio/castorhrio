@@ -1,10 +1,5 @@
-<h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" />
-  <h3 align="center">  A passionate backend/fullstack developer from China</h3>
-</p>
-
+<h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>   
+<h3 align="center">  A passionate backend/fullstack developer from China</h3>
 
 <p align="center">
   
@@ -18,14 +13,17 @@
 
 - 📄 Know about my experiences [https://music.163.com/#/artist?id=35888225](https://music.163.com/#/artist?id=35888225)
 
-- ⚡ Fun fact **I think writing code is like creating a binary copy of myself. I love writing code**
+- ⚡ Fun fact **I think writing code is like creating a binary copy of myself. I love coding**
 </p>
 
-<h3 align="left">GitHub Readme Streak Stats</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castorhrio&bg_color=291e1e&color=8bfdf6&line=ffffff&point=82c2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Github Profile Trophy</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&row=2" alt="castorhrio" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=500" alt="GitHub Streak" /></a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio" /></p>
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&column=6&row=2" alt="castorhrio" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -55,10 +53,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Xyris.Sakana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Xyris.Sakana" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castorhrio&theme=highcontrast" alt="castorhrio" /></p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castorhrio&bg_color=291e1e&color=8bfdf6&line=ffffff&point=82c2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /></p>
