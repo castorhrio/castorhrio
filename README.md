@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
-<h3 align="center">A passionate backend/fullstack developer from China</h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> A passionate backend/fullstack developer from China</h3>
 
 <p align="center">
   
@@ -19,10 +18,10 @@
 </p>
 
 <h3 align="left">GitHub Readme Streak Stats</h3>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a></p> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" /></a>
 
 <h3 align="left">Github Profile Trophy</h3>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&row=2" alt="castorhrio" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&row=2" alt="castorhrio" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
