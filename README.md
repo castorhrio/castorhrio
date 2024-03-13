@@ -1,12 +1,12 @@
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o5MXlwY3B2bG04Mm82eGVhYTNmbTBubnEzZzY4cnB6bThiZjhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" />
+<a href="https://www.buymeacoffee.com/SQZpjhbvqh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="Xyris.Sakana" alt="Buy Me A Coffee"/></a>
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" />
+</p>
 
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>   
 <h3 align="center">  A passionate backend/fullstack developer from China</h3>
@@ -76,6 +76,3 @@
 
 ---
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/Xyris.Sakana"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="45" width="200" alt="Xyris.Sakana" alt="Buy Me A Coffee"/></a>
-</p>
