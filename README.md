@@ -35,8 +35,8 @@
 
 ### 🔥 &nbsp;My Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio"/>
   <img src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak"/></a>
 
 </p>
