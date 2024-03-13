@@ -1,9 +1,11 @@
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
 <h3 align="center">A passionate backend/fullstack developer from China</h3>
 
 <p align="center">
-  - 🌱 I’m currently learning **golang/net core/web3/nodejs**
+  
+- 🌱 I’m currently learning **golang/net core/web3/nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/castorhrio](https://github.com/castorhrio)
 
@@ -16,11 +18,8 @@
 - ⚡ Fun fact **I think writing code is like creating a binary copy of myself. I love writing code**
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
-
 <h3 align="left">GitHub Readme Streak Stats</h3>
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)</p> 
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a></p> 
 
 <h3 align="left">Github Profile Trophy</h3>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&row=2" alt="castorhrio" /></a> </p>
