@@ -1,11 +1,9 @@
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>
+
 <h3 align="center">A passionate backend/fullstack developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio" alt="castorhrio" /></a> </p>
-
-- 🌱 I’m currently learning **golang/net core/web3/nodejs**
+<p align="center">
+  - 🌱 I’m currently learning **golang/net core/web3/nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/castorhrio](https://github.com/castorhrio)
 
@@ -16,6 +14,16 @@
 - 📄 Know about my experiences [https://music.163.com/#/artist?id=35888225](https://music.163.com/#/artist?id=35888225)
 
 - ⚡ Fun fact **I think writing code is like creating a binary copy of myself. I love writing code**
+</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /> </p>
+
+<h3 align="left">GitHub Readme Streak Stats</h3>
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=castorhrio&theme=highcontrast&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)</p> 
+
+<h3 align="left">Github Profile Trophy</h3>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&row=2" alt="castorhrio" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -50,3 +58,5 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=castorhrio&show_icons=true&theme=merko&locale=en&layout=compact" alt="castorhrio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castorhrio&theme=highcontrast" alt="castorhrio" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castorhrio&bg_color=291e1e&color=8bfdf6&line=ffffff&point=82c2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
