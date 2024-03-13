@@ -1,9 +1,14 @@
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o5MXlwY3B2bG04Mm82eGVhYTNmbTBubnEzZzY4cnB6bThiZjhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /></p>
+
+
 <h1 align="center">Hi 🙋‍♂️ , I'm Xyris</h1>   
 <h3 align="center">  A passionate backend/fullstack developer from China</h3>
 
 <p align="center">
   
-- 🌱 I’m currently learning **golang/net core/web3/nodejs**
+- 🌱 I’m currently learning **golang/net core/web3/nodejs**, I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/castorhrio](https://github.com/castorhrio)
 
@@ -16,6 +21,9 @@
 - ⚡ Fun fact **I think writing code is like creating a binary copy of myself. I love coding**
 </p>
 
+---
+
+### 🔥 &nbsp; My Stats 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castorhrio&bg_color=291e1e&color=8bfdf6&line=ffffff&point=82c2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=castorhrio&show_icons=true&theme=synthwave&locale=en" alt="castorhrio" /></p>
@@ -25,7 +33,10 @@
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castorhrio&column=6&row=2" alt="castorhrio" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠 &nbsp;Languages and Tools
+
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -50,7 +61,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Xyris.Sakana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Xyris.Sakana" /></a></p><br><br>
+---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=castorhrio&label=visitors&color=0ea1b4&style=flat-square" alt="castorhrio" /></p>
+### ☕ &nbsp;Support
+<p align="left">
+<a href="https://www.buymeacoffee.com/Xyris.Sakana"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="200" alt="Xyris.Sakana" alt="Buy Me A Coffee"/></a>
+</p>
+
+
