@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/castorhrio">
-  <img src="https://img.shields.io/badge/💻_GitHub-@castorhrio-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://music.163.com/#/artist?id=35888225">
   <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" />
 </a>
@@ -30,7 +26,7 @@
 ## 🖥️ Terminal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/castorhrio/gif-terminal/main/output.gif" alt="Terminal GIF" />
+  <img src="./output.gif" alt="Terminal GIF" />
 </div>
 
 ---
