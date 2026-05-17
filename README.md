@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=180&section=header&text=&fontSize=0" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -16,11 +18,6 @@
 <a href="https://music.163.com/#/artist?id=35888225">
   <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" alt="Music"/>
 </a>
-
-<br/>
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Joke" />
 
 </div>
 
@@ -93,3 +90,5 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=120&section=footer" />
