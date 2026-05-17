@@ -1,1 +1,40 @@
-
+{
+  "type": "normal",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#8B949E",
+  "strongColor": "#00D2FF",
+  "weakColor": "#1a1b27",
+  "radarColor": "#00D2FF",
+  "contribColors": [
+    "#161b22",
+    "#0a3d5c",
+    "#006d8f",
+    "#00a5c8",
+    "#00D2FF"
+  ],
+  "growingAnimation": true,
+  "fileName": "profile-customize.svg",
+  "l10n": {
+    "commit": "Commits",
+    "repo": "Repos",
+    "review": "Reviews",
+    "pullreq": "PRs",
+    "issue": "Issues",
+    "contrib": "Contributions"
+  },
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#8B949E",
+    "strongColor": "#00D2FF",
+    "weakColor": "#1a1b27",
+    "radarColor": "#00D2FF",
+    "contribColors": [
+      "#161b22",
+      "#0a3d5c",
+      "#006d8f",
+      "#00a5c8",
+      "#00D2FF"
+    ]
+  }
+}
