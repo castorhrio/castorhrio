@@ -14,11 +14,6 @@
 <a href="mailto:jojoseisai@gmail.com">
   <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://music.163.com/#/artist?id=35888225">
-  <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -86,13 +81,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" height="170" />
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="33%" align="center"><img src="./profile/stats.svg" alt="GitHub Stats" /></td>
+    <td width="33%" align="center"><img src="./profile/top-langs.svg" alt="Top Languages" /></td>
+    <td width="34%" align="center"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 ---
 
