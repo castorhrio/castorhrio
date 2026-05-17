@@ -86,7 +86,9 @@ AI Agent · 自托管基础设施 · 自动化工作流
 ### Activity
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Stats" height="140" />
+  <img src="./profile/stats.svg" alt="Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
 </div>
 
 <br/>
