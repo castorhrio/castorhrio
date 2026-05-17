@@ -1,18 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:9333EA&height=140&section=header&text=&fontSize=0" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+whoami;castorhrio+%C2%B7+Backend+%26+Fullstack;%24+cat+%2Fetc%2Ffocus;Distributed+Systems+%C2%B7+API+Design+%C2%B7+Craftsmanship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+castorhrio;Backend+%26+Fullstack+Engineer;Distributed+Systems+%C2%B7+API+Design;echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
+
+<br/>
+
+[![Blog](https://img.shields.io/badge/BLOG-ponponboy.cn-00D2FF?style=flat&logo=ghost&logoColor=black)](https://ponponboy.cn/)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-jojoseisai-9333EA?style=flat&logo=gmail&logoColor=white)](mailto:jojoseisai@gmail.com)
+&nbsp;
+[![Arctic Code Vault](https://img.shields.io/badge/ARCTIC_VAULT-Contributor-8B5CF6?style=flat&logo=github&logoColor=white)](https://archiveprogram.github.com/)
 
 </div>
 
 ---
 
-### About
+### ⚡ About
 
-Backend & fullstack developer from China. Code is craftsmanship — every commit is a deliberate improvement.
+Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement.
 
-Currently building enterprise web applications · Arctic Code Vault Contributor
+Currently building enterprise web applications.
 
 | | |
 |---|---|
@@ -21,7 +29,7 @@ Currently building enterprise web applications · Arctic Code Vault Contributor
 | Storage | MySQL · MongoDB · Redis |
 | Infra | Docker · Linux · GitHub Actions |
 
-[blog](https://ponponboy.cn/) · [email](mailto:jojoseisai@gmail.com)
+**Built** — Load generator in Go · IM system with WebSocket · Excel → MySQL ETL pipeline · Enterprise utility libraries
 
 <details>
 <summary>中文简介</summary>
@@ -46,7 +54,28 @@ Currently building enterprise web applications · Arctic Code Vault Contributor
 
 ---
 
-## 🐍 Contribution Snake
+### 🛠️ Tech Stack
+
+<div align="center">
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org)
+[![C#](https://img.shields.io/badge/C%23-9333EA?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-00D2FF?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![.NET](https://img.shields.io/badge/.NET_8-8B5CF6?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+[![MySQL](https://img.shields.io/badge/MySQL-00D2FF?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-00D2FF?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![GitHub Actions](https://img.shields.io/badge/Actions-9333EA?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
@@ -56,18 +85,34 @@ Currently building enterprise web applications · Arctic Code Vault Contributor
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="160" />
+  &nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="160" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
+</div>
+
+---
+
 <div align="center">
 
-*"Any fool can write code that a computer can understand.*
- *Good programmers write code that humans can understand."*
- *— Martin Fowler*
+```
+┌─────────────────────────────────────────────────────────┐
+│  "Any fool can write code that a computer can understand.│
+│   Good programmers write code that humans can understand."│
+│                                           — Martin Fowler│
+└─────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=castorhrio&label=Visitors&color=00D2FF&style=flat-square&abbreviated=true" alt="Profile Views" />
 
 </div>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=castorhrio&label=Visitors&color=58A6FF&style=flat-square&abbreviated=true" alt="Profile Views" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:9333EA&height=80&section=footer" />
