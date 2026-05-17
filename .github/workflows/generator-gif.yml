@@ -14,6 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Download generate script
+        run: |
+          curl -o generate.py https://raw.githubusercontent.com/dbuzatto/gif-terminal/main/generate_with_stats.py
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -21,31 +25,13 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update -qq && sudo apt-get install -y ffmpeg
-          pip install github-readme-terminal requests Pillow
+          pip install gifos requests
 
       - name: Generate GIF
-        run: |
-          python -c "
-          import os, json, requests
-          from github_readme_terminal import GitHubReadmeTerminal
-
-          token = '${{ secrets.GITHUB_TOKEN }}'
-          user = '${{ github.repository_owner }}'
-
-          headers = {'Authorization': f'token {token}'}
-          data = requests.get(f'https://api.github.com/users/{user}', headers=headers).json()
-
-          g = GitHubReadmeTerminal(
-              user_public_repos=data.get('public_repos', 0),
-              user_followers=data.get('followers', 0),
-              user_total_stars=0,
-              user_total_forks=0,
-              user_total_contributions=0,
-              user_display_name=user
-          )
-          g.create_gif('output.gif')
-          print('GIF generated successfully')
-          "
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python generate.py
 
       - name: Commit
         run: |
