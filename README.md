@@ -8,49 +8,20 @@
 
 ---
 
-```go
-// profile.go
-package main
+### About
 
-type Engineer struct {
-    Name      string
-    Focus     []string
-    Currently string
-    Stack
-    Contact
-}
+Backend & fullstack developer from China. Code is craftsmanship — every commit is a deliberate improvement.
 
-type Stack struct {
-    Languages []string
-    Runtime   []string
-    Storage   []string
-    Infra     []string
-}
+Currently building enterprise web applications · Arctic Code Vault Contributor
 
-type Contact struct {
-    Blog, Email string
-}
+| | |
+|---|---|
+| Languages | Go · C# · TypeScript |
+| Runtime | .NET 8 · Node.js |
+| Storage | MySQL · MongoDB · Redis |
+| Infra | Docker · Linux · GitHub Actions |
 
-var me = Engineer{
-    Name:      "Xyris",
-    Focus:     []string{"Backend", "Distributed Systems", "Fullstack"},
-    Currently: "Building enterprise web applications",
-    Stack: Stack{
-        Languages: []string{"Go", "C#", "TypeScript"},
-        Runtime:   []string{".NET 8", "Node.js"},
-        Storage:   []string{"MySQL", "MongoDB", "Redis"},
-        Infra:     []string{"Docker", "Linux", "GitHub Actions"},
-    },
-    Contact: Contact{
-        Blog:  "ponponboy.cn",
-        Email: "jojoseisai@gmail.com",
-    },
-}
-
-// Arctic Code Vault Contributor — preserved for 1,000 years
-```
-
-→ [blog](https://ponponboy.cn/) · [email](mailto:jojoseisai@gmail.com)
+[blog](https://ponponboy.cn/) · [email](mailto:jojoseisai@gmail.com)
 
 <details>
 <summary>中文简介</summary>
@@ -92,6 +63,10 @@ var me = Engineer{
  *— Martin Fowler*
 
 </div>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=castorhrio&label=Visitors&color=58A6FF&style=flat-square&abbreviated=true" alt="Profile Views" />
 
 <br/>
 
