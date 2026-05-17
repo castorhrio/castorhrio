@@ -1,58 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=180&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=150&section=header&text=&fontSize=0" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
 
 <br/>
-
-```
-           ██╗  ██╗██╗   ██╗██████╗ ██╗███████╗
-           ╚██╗██╔╝╚██╗ ██╔╝██╔══██╗██║██╔════╝
-            ╚███╔╝  ╚████╔╝ ██████╔╝██║███████╗
-            ██╔██╗   ╚██╔╝  ██╔══██╗██║╚════██║
-           ██╔╝ ██╗   ██║   ██║  ██║██║███████║
-           ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝
-```
-
 <br/>
 
 <a href="https://ponponboy.cn/" target="_blank">
-  <img src="https://img.shields.io/badge/📝_Blog-ponponboy.cn-6C63FF?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog"/>
+  <img src="https://img.shields.io/badge/📝_Blog-ponponboy.cn-6C63FF?style=for-the-badge&logo=hexo&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:jojoseisai@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/castorhrio">
+  <img src="https://img.shields.io/badge/💻_GitHub-@castorhrio-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://music.163.com/#/artist?id=35888225">
-  <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" alt="Music"/>
+  <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-### `$ neofetch`
+## 🖥️ Terminal
 
-```yaml
-Xyris @ GitHub
----------------
-OS          │  Linux · macOS
-Shell       │  zsh · bash
-Editor      │  VS Code · JetBrains Rider
-Browser     │  Chrome · Arc
-Terminal    │  iTerm2 · Windows Terminal
-Languages   │  Go · C# · TypeScript · JavaScript
-Databases   │  MySQL · MongoDB · Redis · SQL Server
-Focus       │  Backend Architecture · Distributed Systems · Web3
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/castorhrio/gif-terminal/main/output.gif" alt="Terminal GIF" />
+</div>
+
+---
+
+## 📊 Dashboard
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=castorhrio&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-> Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement, every architecture decision respects real-world constraints.
+> Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement.
 
 - 🔭 **Currently** — Software Engineer, building enterprise web applications
 - 🌱 **Learning** — Go · .NET Core · Node.js · Web3
@@ -60,8 +68,6 @@ Focus       │  Backend Architecture · Distributed Systems · Web3
 - ✍️ **Blog** — [ponponboy.cn](https://ponponboy.cn/)
 - 🎵 **Music** — [NetEase Music](https://music.163.com/#/artist?id=35888225)
 - ⚡ **Fun fact** — *Writing code is like creating a binary copy of myself*
-
-### 🎯 Experience
 
 | Domain | Details |
 |---|---|
@@ -75,7 +81,7 @@ Focus       │  Backend Architecture · Distributed Systems · Web3
 
 ## 🙋‍♂️ 中文简介
 
-> 来自中国的后端/全栈开发者。代码如手艺——每次提交都是刻意的打磨，每个架构决策都尊重真实约束。
+> 来自中国的后端/全栈开发者。代码如手艺——每次提交都是刻意的打磨。
 
 - 🔭 **当前** — 软件工程师，构建企业级 Web 应用
 - 🌱 **学习** — Go · .NET Core · Node.js · Web3
@@ -83,8 +89,6 @@ Focus       │  Backend Architecture · Distributed Systems · Web3
 - ✍️ **博客** — [ponponboy.cn](https://ponponboy.cn/)
 - 🎵 **音乐** — [网易云音乐](https://music.163.com/#/artist?id=35888225)
 - ⚡ **有趣** — *写代码就像在创造自己的二进制副本*
-
-### 🎯 经验
 
 | 领域 | 详情 |
 |---|---|
@@ -100,34 +104,6 @@ Focus       │  Backend Architecture · Distributed Systems · Web3
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
-</div>
-
----
-
-## 🗿 3D Contribution
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=castorhrio&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
