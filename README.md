@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=$+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+./build.sh+--mode=awesome" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -20,6 +20,11 @@
 <a href="https://music.163.com/#/artist?id=35888225">
   <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" alt="Music"/>
 </a>
+
+<br/>
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&borderColor=%236C63FF&qColor=%2370a5fd&aColor=%23949cb0&textColor=%23c9d1d9&codeColor=%2370a5fd" alt="Joke" />
 
 </div>
 
@@ -72,24 +77,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
 </div>
-
----
-
-## 😄 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Joke" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
