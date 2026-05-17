@@ -1,41 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=150&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=header&text=&fontSize=0" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+whoami;castorhrio+%C2%B7+Backend+%26+Fullstack;%24+cat+%2Fetc%2Ffocus;Distributed+Systems+%C2%B7+API+Design+%C2%B7+Craftsmanship" alt="Typing SVG" />
 
-<br/>
-<br/>
-
-<a href="https://ponponboy.cn/" target="_blank">
-  <img src="https://img.shields.io/badge/📝_Blog-ponponboy.cn-6C63FF?style=for-the-badge&logo=hexo&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:jojoseisai@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </div>
 
 ---
 
-## 👋 About Me
+```go
+// profile.go
+package main
 
-> Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement.
+type Engineer struct {
+    Name      string
+    Focus     []string
+    Currently string
+    Stack
+    Contact
+}
 
-- 🔭 **Currently** — Software Engineer, building enterprise web applications
-- 🌱 **Learning** — Go · .NET Core · Node.js · Web3
-- 💬 **Topics** — .NET architecture, Go patterns, API design, WeChat ecosystem integration
-- ✍️ **Blog** — [ponponboy.cn](https://ponponboy.cn/)
-- 🎵 **Music** — [NetEase Music](https://music.163.com/#/artist?id=35888225)
-- ⚡ **Fun fact** — *Writing code is like creating a binary copy of myself*
+type Stack struct {
+    Languages []string
+    Runtime   []string
+    Storage   []string
+    Infra     []string
+}
 
-| Domain | Details |
-|---|---|
-| 🔧 **Infra & Tooling** | Load generator in Go; Excel → MySQL ETL pipeline; common utility libraries |
-| 💬 **Real-time Systems** | IM system in Go with WebSocket-based communication |
-| 🗄️ **Database** | MySQL / MongoDB / Redis / SQL Server |
-| ☁️ **DevOps** | Docker, Linux, GitHub Actions CI/CD |
-| 🏆 **Achievement** | Arctic Code Vault Contributor |
+type Contact struct {
+    Blog, Email string
+}
+
+var me = Engineer{
+    Name:      "Xyris",
+    Focus:     []string{"Backend", "Distributed Systems", "Fullstack"},
+    Currently: "Building enterprise web applications",
+    Stack: Stack{
+        Languages: []string{"Go", "C#", "TypeScript"},
+        Runtime:   []string{".NET 8", "Node.js"},
+        Storage:   []string{"MySQL", "MongoDB", "Redis"},
+        Infra:     []string{"Docker", "Linux", "GitHub Actions"},
+    },
+    Contact: Contact{
+        Blog:  "ponponboy.cn",
+        Email: "jojoseisai@gmail.com",
+    },
+}
+
+// Arctic Code Vault Contributor — preserved for 1,000 years
+```
+
+→ [blog](https://ponponboy.cn/) · [email](mailto:jojoseisai@gmail.com)
 
 <details>
 <summary>中文简介</summary>
@@ -47,7 +62,7 @@
 - 💬 **话题** — .NET 架构、Go 模式、API 设计、微信生态集成
 - ✍️ **博客** — [ponponboy.cn](https://ponponboy.cn/)
 - 🎵 **音乐** — [网易云音乐](https://music.163.com/#/artist?id=35888225)
-- ⚡ **有趣** — *写代码就像在创造自己的二进制副本*
+- 🏆 **成就** — GitHub 北极代码库贡献者
 
 | 领域 | 详情 |
 |---|---|
@@ -55,7 +70,6 @@
 | 💬 **实时通讯** | Go + WebSocket 即时通讯系统 |
 | 🗄️ **数据库** | MySQL / MongoDB / Redis / SQL Server |
 | ☁️ **运维部署** | Docker、Linux、GitHub Actions CI/CD |
-| 🏆 **成就** | GitHub 北极代码库贡献者 |
 
 </details>
 
@@ -71,44 +85,14 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
+
+*"Any fool can write code that a computer can understand.*
+ *Good programmers write code that humans can understand."*
+ *— Martin Fowler*
+
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "Any fool can write code that a computer can understand.    ║
-║    Good programmers write code that humans can understand."    ║
-║                                          — Martin Fowler       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=castorhrio&label=Visitors&color=6C63FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=80&section=footer" />
