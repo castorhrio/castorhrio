@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/castorhrio">
-  <img src="https://img.shields.io/badge/💻_GitHub-@castorhrio-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://music.163.com/#/artist?id=35888225">
   <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" />
 </a>
@@ -47,7 +43,7 @@
 | 🏆 **Achievement** | Arctic Code Vault Contributor |
 
 <details>
-<summary>🇨🇳 中文简介</summary>
+<summary>中文简介</summary>
 
 > 来自中国的后端/全栈开发者。代码如手艺——每次提交都是刻意的打磨。
 
@@ -70,10 +66,20 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
 </div>
 
 ---
@@ -84,20 +90,9 @@
   <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
   &nbsp;&nbsp;
   <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" height="170" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
