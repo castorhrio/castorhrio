@@ -94,7 +94,7 @@ AI Agent · 自托管基础设施 · 自动化工作流
 <br/>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions" width="100%" />
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions" width="720" />
 </div>
 
 <br/>
