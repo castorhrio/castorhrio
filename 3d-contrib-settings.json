@@ -1,17 +1,17 @@
 {
   "type": "normal",
   "fileName": "profile-customize.svg",
-  "backgroundColor": "#0d1117",
+  "backgroundColor": "#00000000",
   "foregroundColor": "#c9d1d9",
   "strongColor": "#00D2FF",
   "weakColor": "#30363d",
   "radarColor": "#00D2FF",
   "growingAnimation": true,
   "contribColors": [
-    "#2a3a4e",
-    "#1a5a7a",
-    "#0e7ea8",
-    "#00a5d4",
+    "#1c2d3d",
+    "#1a6b8a",
+    "#0e9ec4",
+    "#00c4f0",
     "#00D2FF"
   ]
 }
