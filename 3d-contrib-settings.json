@@ -3,15 +3,15 @@
   "fileName": "profile-customize.svg",
   "backgroundColor": "transparent",
   "foregroundColor": "#8b949e",
-  "strongColor": "#58a6ff",
-  "weakColor": "#30363d",
-  "radarColor": "#58a6ff",
+  "strongColor": "#00d2ff",
+  "weakColor": "#161b22",
+  "radarColor": "#00d2ff",
   "growingAnimation": true,
   "contribColors": [
-    "#21262d",
-    "#2f3c4d",
-    "#3d536d",
-    "#4c6f96",
-    "#58a6ff"
+    "#161b22",
+    "#1b2d3d",
+    "#254060",
+    "#305882",
+    "#00d2ff"
   ]
 }
