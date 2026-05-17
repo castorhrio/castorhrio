@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
+<a href="https://github.com/castorhrio">
+  <img src="https://img.shields.io/badge/💻_GitHub-@castorhrio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
 <a href="https://music.163.com/#/artist?id=35888225">
   <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" alt="Music"/>
 </a>
@@ -20,7 +24,7 @@
 <br/>
 <br/>
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&borderColor=%236C63FF&qColor=%2370a5fd&aColor=%23949cb0&textColor=%23c9d1d9&codeColor=%2370a5fd" alt="Joke" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Joke" />
 
 </div>
 
@@ -72,6 +76,14 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
+</div>
+
+---
+
+## 🗿 3D Contribution
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="100%" />
 </div>
 
 ---
