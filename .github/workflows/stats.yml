@@ -13,12 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide_title=true&bg_color=00000000&title_color=00D2FF&icon_color=00D2FF&text_color=8B949E&hide=stars,issues
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide_title=true&bg_color=00000000&title_color=00D2FF&icon_color=00D2FF&text_color=8B949E
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide_title=true&bg_color=00000000&title_color=00D2FF&text_color=8B949E
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # --- 3D Contribution ---
