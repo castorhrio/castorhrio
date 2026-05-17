@@ -21,11 +21,6 @@
   <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" alt="Music"/>
 </a>
 
-<br/>
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Random Dev Joke" />
-
 </div>
 
 ---
@@ -34,16 +29,12 @@
 
 > Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement, every architecture decision respects real-world constraints.
 
-```text
-┌──────────────────────────────────────────────────────┐
-│  🔭  Software Engineer                               │
-│  🌱  Go · .NET Core · Node.js · Web3                 │
-│  💬  .NET architecture · Go patterns · API design    │
-│  ✍️  ponponboy.cn                                    │
-│  🎵  music.163.com/#/artist?id=35888225              │
-│  ⚡  "Code is a binary copy of myself"               │
-└──────────────────────────────────────────────────────┘
-```
+- 🔭 **Currently** — Software Engineer, building enterprise web applications
+- 🌱 **Learning** — Go · .NET Core · Node.js · Web3
+- 💬 **Topics** — .NET architecture, Go patterns, API design, WeChat ecosystem integration
+- ✍️ **Blog** — [ponponboy.cn](https://ponponboy.cn/)
+- 🎵 **Music** — [NetEase Music](https://music.163.com/#/artist?id=35888225)
+- ⚡ **Fun fact** — *Writing code is like creating a binary copy of myself*
 
 | Domain | Details |
 |---|---|
@@ -59,16 +50,12 @@
 
 > 来自中国的后端/全栈开发者。代码如手艺——每次提交都是刻意的打磨，每个架构决策都尊重真实约束。
 
-```text
-┌──────────────────────────────────────────────────────┐
-│  🔭  软件工程师                                      │
-│  🌱  Go · .NET Core · Node.js · Web3                 │
-│  💬  .NET 架构 · Go 模式 · API 设计                  │
-│  ✍️  ponponboy.cn                                    │
-│  🎵  music.163.com/#/artist?id=35888225              │
-│  ⚡  "写代码就像在创造自己的二进制副本"               │
-└──────────────────────────────────────────────────────┘
-```
+- 🔭 **当前** — 软件工程师，构建企业级 Web 应用
+- 🌱 **学习** — Go · .NET Core · Node.js · Web3
+- 💬 **话题** — .NET 架构、Go 模式、API 设计、微信生态集成
+- ✍️ **博客** — [ponponboy.cn](https://ponponboy.cn/)
+- 🎵 **音乐** — [网易云音乐](https://music.163.com/#/artist?id=35888225)
+- ⚡ **有趣** — *写代码就像在创造自己的二进制副本*
 
 | 领域 | 详情 |
 |---|---|
@@ -83,8 +70,26 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
 </div>
+
+---
+
+## 😄 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Joke" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
