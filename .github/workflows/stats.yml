@@ -1,9 +1,12 @@
-name: Update Stats Cards
+name: Update Stats & 3D Contribution
 
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,6 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # --- GitHub Stats Cards ---
       - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -27,11 +31,18 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit
+      # --- 3D Contribution ---
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # --- Commit ---
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --staged --quiet || git commit -m "chore: update stats cards"
+          git add profile/ profile-3d-contrib/
+          git diff --staged --quiet || git commit -m "chore: update stats & 3d contrib"
           git pull --rebase
           git push
