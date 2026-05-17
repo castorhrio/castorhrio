@@ -2,9 +2,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%9E%9C+Xyris;Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;%24+echo+%22Code+is+craftsmanship%22" alt="Typing SVG" />
 
 <br/>
+
+```
+           ██╗  ██╗██╗   ██╗██████╗ ██╗███████╗
+           ╚██╗██╔╝╚██╗ ██╔╝██╔══██╗██║██╔════╝
+            ╚███╔╝  ╚████╔╝ ██████╔╝██║███████╗
+            ██╔██╗   ╚██╔╝  ██╔══██╗██║╚════██║
+           ██╔╝ ██╗   ██║   ██║  ██║██║███████║
+           ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝
+```
+
 <br/>
 
 <a href="https://ponponboy.cn/" target="_blank">
@@ -23,6 +33,23 @@
 
 ---
 
+### `$ neofetch`
+
+```yaml
+Xyris @ GitHub
+---------------
+OS          │  Linux · macOS
+Shell       │  zsh · bash
+Editor      │  VS Code · JetBrains Rider
+Browser     │  Chrome · Arc
+Terminal    │  iTerm2 · Windows Terminal
+Languages   │  Go · C# · TypeScript · JavaScript
+Databases   │  MySQL · MongoDB · Redis · SQL Server
+Focus       │  Backend Architecture · Distributed Systems · Web3
+```
+
+---
+
 ## 🙋‍♂️ About Me
 
 > Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement, every architecture decision respects real-world constraints.
@@ -33,6 +60,8 @@
 - ✍️ **Blog** — [ponponboy.cn](https://ponponboy.cn/)
 - 🎵 **Music** — [NetEase Music](https://music.163.com/#/artist?id=35888225)
 - ⚡ **Fun fact** — *Writing code is like creating a binary copy of myself*
+
+### 🎯 Experience
 
 | Domain | Details |
 |---|---|
@@ -54,6 +83,8 @@
 - ✍️ **博客** — [ponponboy.cn](https://ponponboy.cn/)
 - 🎵 **音乐** — [网易云音乐](https://music.163.com/#/artist?id=35888225)
 - ⚡ **有趣** — *写代码就像在创造自己的二进制副本*
+
+### 🎯 经验
 
 | 领域 | 详情 |
 |---|---|
@@ -86,7 +117,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=castorhrio&label=Visitors&color=6C63FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   "Any fool can write code that a computer can understand.    ║
+║    Good programmers write code that humans can understand."    ║
+║                                          — Martin Fowler       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=castorhrio&label=Visitors&color=6C63FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+
 </div>
 
 <br/>
