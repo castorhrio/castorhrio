@@ -14,9 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download generate script
+      - name: Clone gif-terminal scripts
         run: |
-          curl -o generate.py https://raw.githubusercontent.com/dbuzatto/gif-terminal/main/generate_with_stats.py
+          git clone --depth 1 https://github.com/dbuzatto/gif-terminal.git /tmp/gif-terminal
+          cp /tmp/gif-terminal/generate_with_stats.py .
+          cp /tmp/gif-terminal/gifos_settings.toml .
+          cp /tmp/gif-terminal/ansi_escape_colors.toml .
+          cp -r /tmp/gif-terminal/gifos .
 
       - uses: actions/setup-python@v5
         with:
@@ -25,13 +29,13 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update -qq && sudo apt-get install -y ffmpeg
-          pip install gifos requests
+          pip install requests Pillow python-dotenv
 
       - name: Generate GIF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: python generate.py
+        run: python generate_with_stats.py
 
       - name: Commit
         run: |
