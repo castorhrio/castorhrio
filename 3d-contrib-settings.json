@@ -1,17 +1,17 @@
 {
   "type": "normal",
   "fileName": "profile-customize.svg",
-  "backgroundColor": "transparent",
-  "foregroundColor": "#8b949e",
-  "strongColor": "#00d2ff",
-  "weakColor": "#161b22",
-  "radarColor": "#00d2ff",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#8B949E",
+  "strongColor": "#2d6a8a",
+  "weakColor": "#1c2d3f",
+  "radarColor": "#2d6a8a",
   "growingAnimation": true,
   "contribColors": [
-    "#161b22",
-    "#1b2d3d",
-    "#254060",
-    "#305882",
-    "#00d2ff"
+    "#1a2d42",
+    "#264d6e",
+    "#32709a",
+    "#3e93c6",
+    "#4db8f0"
   ]
 }
