@@ -81,13 +81,15 @@
 
 ## 📊 GitHub Stats
 
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" align="center"><img src="./profile/stats.svg" alt="GitHub Stats" /></td>
-    <td width="33%" align="center"><img src="./profile/top-langs.svg" alt="Top Languages" /></td>
-    <td width="34%" align="center"><img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
+</div>
 
 ---
 
