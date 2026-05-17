@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Fullstack+%2F+Backend+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Xyris;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Xyris;Backend+%26+Fullstack+Developer;Go+%7C+.NET+%7C+Node.js+%7C+Web3;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,50 +27,65 @@
 
 ---
 
-## 🙋‍♂️ About Me · 关于我
+## 🙋‍♂️ About Me
 
-> Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement.
-> 一名来自中国的后端/全栈开发者。我把代码视为手艺——每一次提交都是有意义的改进。
+> Backend & fullstack developer from China. I treat code as craftsmanship — every commit is a deliberate improvement, every architecture decision respects real-world constraints.
 
-| 🇬🇧 English | 🇨🇳 中文 |
-|---|---|
-| 🔭 **Now**: Software Engineer, building enterprise web applications | 🔭 **当前**：软件工程师，构建企业级 Web 应用 |
-| 🌱 **Learning**: Go / .NET Core / Node.js / Web3 | 🌱 **学习**：Go / .NET Core / Node.js / Web3 |
-| 💬 **Topics**: .NET architecture, Go patterns, API design, WeChat integration | 💬 **话题**：.NET 架构、Go 模式、API 设计、微信集成 |
-| ✍️ **Blog**: [ponponboy.cn](https://ponponboy.cn/) | ✍️ **博客**：[ponponboy.cn](https://ponponboy.cn/) |
-| 🎵 **Music**: [NetEase](https://music.163.com/#/artist?id=35888225) | 🎵 **音乐**：[网易云音乐](https://music.163.com/#/artist?id=35888225) |
-| ⚡ **Fun**: *Writing code is creating a binary copy of myself* | ⚡ **有趣**：*写代码就像在创造自己的二进制副本* |
+```text
+┌──────────────────────────────────────────────────────┐
+│  🔭  Software Engineer                               │
+│  🌱  Go · .NET Core · Node.js · Web3                 │
+│  💬  .NET architecture · Go patterns · API design    │
+│  ✍️  ponponboy.cn                                    │
+│  🎵  music.163.com/#/artist?id=35888225              │
+│  ⚡  "Code is a binary copy of myself"               │
+└──────────────────────────────────────────────────────┘
+```
 
-### 🎯 Experience Highlights · 经验亮点
-
-| Domain · 领域 | Details · 详情 |
+| Domain | Details |
 |---|---|
 | 🔧 **Infra & Tooling** | Load generator in Go; Excel → MySQL ETL pipeline; common utility libraries |
-| 🔧 **基础工具** | Go 负载生成器；Excel → MySQL 数据管道；通用工具类库 |
 | 💬 **Real-time Systems** | IM system in Go with WebSocket-based communication |
-| 💬 **实时通讯** | Go + WebSocket 即时通讯系统 |
-| 🗄️ **Database** | MySQL / MongoDB / Redis / SQL Server — schema design, optimization |
-| 🗄️ **数据库** | MySQL / MongoDB / Redis / SQL Server — 设计、优化、迁移 |
-| ☁️ **DevOps** | Docker, Linux administration, CI/CD with GitHub Actions |
-| ☁️ **运维部署** | Docker 容器化、Linux 管理、GitHub Actions CI/CD |
+| 🗄️ **Database** | MySQL / MongoDB / Redis / SQL Server |
+| ☁️ **DevOps** | Docker, Linux, GitHub Actions CI/CD |
 | 🏆 **Achievement** | Arctic Code Vault Contributor |
+
+---
+
+## 🙋‍♂️ 中文简介
+
+> 来自中国的后端/全栈开发者。代码如手艺——每次提交都是刻意的打磨，每个架构决策都尊重真实约束。
+
+```text
+┌──────────────────────────────────────────────────────┐
+│  🔭  软件工程师                                      │
+│  🌱  Go · .NET Core · Node.js · Web3                 │
+│  💬  .NET 架构 · Go 模式 · API 设计                  │
+│  ✍️  ponponboy.cn                                    │
+│  🎵  music.163.com/#/artist?id=35888225              │
+│  ⚡  "写代码就像在创造自己的二进制副本"               │
+└──────────────────────────────────────────────────────┘
+```
+
+| 领域 | 详情 |
+|---|---|
+| 🔧 **基础工具** | Go 负载生成器；Excel → MySQL 数据管道；通用工具类库 |
+| 💬 **实时通讯** | Go + WebSocket 即时通讯系统 |
+| 🗄️ **数据库** | MySQL / MongoDB / Redis / SQL Server |
+| ☁️ **运维部署** | Docker、Linux、GitHub Actions CI/CD |
 | 🏆 **成就** | GitHub 北极代码库贡献者 |
 
 ---
 
-## 🛠️ Tech Stack · 技术栈
+## 🛠️ Tech Stack
 
 <div align="center">
-
-> ℹ️ 以下图标来自 [skillicons.dev](https://skillicons.dev)（基于我实际使用的技术栈手动配置）
-
-<img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,angular,html,css,tailwind,bootstrap,mysql,mongodb,redis,rabbitmq,docker,linux,git,postman,githubactions,vscode,rider&perline=8" alt="Tech Stack" />
-
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,js,nodejs,react,html,css,tailwind,mysql,mongodb,redis,docker,linux,git,githubactions,vscode&perline=18" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 Stats · 数据统计
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=castorhrio&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
@@ -83,19 +98,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://ponponboy.cn/">
-    <img src="https://img.shields.io/badge/🌐_Website-ponponboy.cn-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:jojoseisai@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Gmail-jojoseisai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/castorhrio">
-    <img src="https://img.shields.io/badge/💻_GitHub-@castorhrio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://music.163.com/#/artist?id=35888225">
-    <img src="https://img.shields.io/badge/🎵_Music-网易云音乐-CB252C?style=for-the-badge&logoColor=white" alt="Music"/>
-  </a>
-  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=castorhrio&label=👁_Views&color=6C63FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
 </div>
 
