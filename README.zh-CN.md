@@ -12,17 +12,17 @@
 
 我大部分时间花在可扩展后端架构、分布式任务编排，以及那些不太光鲜但很关键的工作：重试、背压、优雅降级 —— 让系统能在生产环境里安静地活着。
 
-技术栈：**.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**。最近在探索 AI Agent、自托管基础设施和自动化工作流。
-
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/8B949E" height="36" alt=".NET" /></a>&nbsp;&nbsp;
-  <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/8B949E" height="31" alt="Go" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/8B949E" height="38" alt="MySQL" /></a>&nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/8B949E" height="21" alt="Redis" /></a>&nbsp;&nbsp;
-  <a href="https://rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/8B949E" height="19" alt="RabbitMQ" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/8B949E" height="27" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/8B949E" height="20" alt="Linux" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="26" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="26" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="26" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="Redis" height="26" /></a>
+  <a href="https://rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" alt="RabbitMQ" height="26" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" height="26" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=tomato" alt="Linux" height="26" /></a>
 </p>
+
+最近在探索 AI Agent、自托管基础设施和自动化工作流。
 
 ### 代表作品
 
