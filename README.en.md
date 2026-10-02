@@ -2,12 +2,19 @@
 
 # Hi, I'm Xyris
 
-Backend engineer. I work on distributed systems, message queues, and high-throughput data pipelines — mostly scalable backend architecture, distributed task orchestration, and the unglamorous work of keeping systems stable under production load: retries, backpressure, graceful degradation. Currently exploring AI agents, self-hosted infrastructure, and automation workflows.
+Backend engineer, mostly distributed systems and message queues.
+
+Day to day that means breaking apart service boundaries, designing task scheduling, and dealing with the problems that only show up after you ship — request timeouts, downstream rate limits, machines dying. I want the system sturdy enough to hold up without anyone watching it.
+
+The stack is .NET and Go for services, MySQL and Redis for data, RabbitMQ for messaging, running on Docker and Linux.
 
 <p align="center">
   <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" height="26" /></a>
   <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" height="26" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" height="26" alt="Visitors" />
+</p>
+
+<p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="26" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="26" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="26" /></a>
@@ -21,10 +28,10 @@ Backend engineer. I work on distributed systems, message queues, and high-throug
 
 | Project | What it is |
 | --- | --- |
-| **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | A system design tutorial for junior developers — 28 chapters, 127 errata, 182 supplements (written in Chinese) |
-| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn-powered call maps for C#. Every edge comes from the compiler, not a guess. Deterministic, zero-LLM. |
-| **[rehearsal](https://github.com/castorhrio/rehearsal)** | Rehearse and debug GitHub Actions workflows locally — no more trial-and-error commits. |
-| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Centred, translucent Win10 taskbar with start-menu tiles. No system files touched, fully reversible, bilingual UI. |
+| **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | A system design tutorial, 28 chapters in Chinese, with 127 errata |
+| **[callatlas](https://github.com/castorhrio/callatlas)** | Call graph tool for C#. Every edge comes from the compiler, none guessed |
+| **[rehearsal](https://github.com/castorhrio/rehearsal)** | Run GitHub Actions locally instead of pushing commits to test |
+| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Centred translucent Win10 taskbar. No system files, fully reversible |
 
 More in the [repositories tab](https://github.com/castorhrio?tab=repositories). Writing up at [ponponboy.cn](https://ponponboy.cn/).
 
