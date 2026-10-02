@@ -37,9 +37,9 @@ More in the [repositories tab](https://github.com/castorhrio?tab=repositories). 
 <details>
 <summary>中文简介</summary>
 
-后端工程师,主要在做分布式系统、消息队列和高吞吐数据管道。日常更多是可扩展后端架构、分布式任务编排,以及那些不太光鲜但很关键的工作:重试、背压、优雅降级 —— 让系统能在生产环境里安静地活着。
+后端工程师，主要在做分布式系统、消息队列和高吞吐数据管道。日常更多是可扩展后端架构、分布式任务编排，以及那些不太光鲜但很关键的工作：重试、背压、优雅降级 —— 让系统能在生产环境里安静地活着。
 
-技术栈:**.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**,最近在折腾 AI Agent、自托管基础设施和自动化工作流。
+技术栈：**.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**，最近在折腾 AI Agent、自托管基础设施和自动化工作流。
 
 [博客](https://ponponboy.cn/) · [邮箱](mailto:jojoseisai@gmail.com)
 
