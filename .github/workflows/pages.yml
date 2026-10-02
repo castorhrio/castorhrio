@@ -40,6 +40,9 @@ jobs:
             echo '  .bar a:hover { text-decoration: underline; }'
             echo '  .markdown-body img { max-width: 100%; height: auto; }'
             echo '  .markdown-body table { display: table; width: 100%; }'
+            echo '  .markdown-body p { margin: 0 0 16px; }'
+            echo '  .markdown-body p:has(> img) { margin: 0 0 8px; }'
+            echo '  .markdown-body p img { display: inline-block; margin-right: 4px; }'
             echo '  .md { border: 1px solid #d0d7de; border-radius: 6px; padding: 24px; }'
             echo '</style>'
             echo '</head>'
@@ -47,7 +50,7 @@ jobs:
             echo '<div class="wrap">'
             echo '<div class="bar">'
             echo '<a href="https://github.com/castorhrio">&larr; castorhrio</a>'
-            echo '<a href="https://castorhrio.github.io/castorhrio/">English</a>'
+            echo '<a href="https://github.com/castorhrio">English</a>'
             echo '</div>'
             echo '<article class="markdown-body md">'
           } > _site/index.html
@@ -61,6 +64,8 @@ jobs:
 
           src = open('README.zh-CN.md', encoding='utf-8').read()
           src = re.sub(r'<!--.*?-->', '', src, flags=re.S)
+          # drop the in-page language switcher; the site header already offers it
+          src = re.sub(r'(?m)^\s*[^\n]*README\.md\s*\n', '', src, count=1)
 
           inline = [
               (r'\*\*(.+?)\*\*', r'<strong>\1</strong>'),
@@ -120,6 +125,14 @@ jobs:
                   i += 1; continue
               if res and res[-1].startswith('<ul>') and not re.match(r'^\s*(?:[-*]|\d+\.)\s+', ln):
                   res.append('</ul>')
+              # image-only lines: collect consecutive ones into a single inline paragraph
+              if re.match(r'^\s*(?:<a\b[^>]*>\s*)?<img\b', ln):
+                  group = [ln.strip()]
+                  j = i + 1
+                  while j < len(lines) and re.match(r'^\s*(?:<a\b[^>]*>\s*)?<img\b', lines[j]):
+                      group.append(lines[j].strip()); j += 1
+                  res.append('<p>%s</p>' % ' '.join(group))
+                  i = j; continue
               if ln.strip() == '':
                   res.append('')
               elif ln.strip() != '':
