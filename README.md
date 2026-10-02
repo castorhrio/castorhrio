@@ -1,26 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a1628&height=110&section=header&text=Xyris%20%E2%80%A2%20Backend%20Engineer&fontSize=42&fontColor=00d2ff&animation=fadeIn" alt="Xyris" />
+# Hi, I'm Xyris
+
+Backend engineer. I work on distributed systems, message queues, and high-throughput data pipelines.
 
 <p align="center">
-  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-00D2FF?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
-  <a href="mailto:jojoseisai@gmail.com"><img src="https://img.shields.io/badge/Email-jojoseisai-8B949E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" /></a>
+  <a href="mailto:jojoseisai@gmail.com"><img src="https://img.shields.io/badge/Email-jojoseisai-8B949E?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=00D2FF&label=Visitors" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" alt="Visitors" />
 </p>
 
-### About
-
-Backend engineer working on distributed systems, message queues, and high-throughput data pipelines. Most of my time goes into scalable backend architecture, distributed task orchestration, and the unglamorous work of keeping systems stable under production load — retries, backpressure, and graceful degradation.
+Most of my time goes into scalable backend architecture, distributed task orchestration, and the unglamorous work of keeping systems stable under production load — retries, backpressure, graceful degradation.
 
 Stack: **.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**. Currently exploring AI agents, self-hosted infrastructure, and automation workflows.
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" height="34" alt=".NET" /></a>
-  <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="34" alt="Go" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="34" alt="MySQL" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="34" alt="Redis" /></a>
-  <a href="https://rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="34" alt="RabbitMQ" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="34" alt="Docker" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="34" alt="Linux" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/8B949E" height="26" alt=".NET" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/8B949E" height="26" alt="Go" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/8B949E" height="26" alt="MySQL" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/8B949E" height="26" alt="Redis" /></a>
+  <a href="https://rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/8B949E" height="26" alt="RabbitMQ" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/8B949E" height="26" alt="Docker" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/8B949E" height="26" alt="Linux" /></a>
 </p>
 
 ### Featured work
