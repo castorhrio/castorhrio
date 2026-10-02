@@ -65,7 +65,7 @@ jobs:
           src = open('README.zh-CN.md', encoding='utf-8').read()
           src = re.sub(r'<!--.*?-->', '', src, flags=re.S)
           # drop the in-page language switcher; the site header already offers it
-          src = re.sub(r'(?m)^\s*[^\n]*README\.md\s*\n', '', src, count=1)
+          src = re.sub(r'(?m)^\s*[^\n]*README\.md[^\n]*\n?', '', src, count=1)
 
           inline = [
               (r'\*\*(.+?)\*\*', r'<strong>\1</strong>'),
@@ -73,13 +73,19 @@ jobs:
               (r'\[([^\]]+?)\]\(([^)]+?)\)', r'<a href="\2">\1</a>'),
           ]
 
+          REPO_RAW = 'https://raw.githubusercontent.com/castorhrio/castorhrio/main/'
+
           def img_sub(m):
               tag = m.group(0)
               src_m = re.search(r'src="([^"]+)"', tag)
               alt_m = re.search(r'alt="([^"]*)"', tag)
               if not src_m:
                   return ''
-              return '<img src="%s" alt="%s">' % (src_m.group(1), alt_m.group(1) if alt_m else '')
+              src = src_m.group(1)
+              # relative paths only resolve on github.com, not on the Pages host
+              if src.startswith('./') or not src.startswith(('http://', 'https://')):
+                  src = REPO_RAW + src.lstrip('./')
+              return '<img src="%s" alt="%s">' % (src, alt_m.group(1) if alt_m else '')
 
           out, pos = [], 0
           for m in re.finditer(r'<img\b[^>]*>', src):
