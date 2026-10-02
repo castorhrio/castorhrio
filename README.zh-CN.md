@@ -38,21 +38,17 @@
 ### 活跃度
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Stats" height="150" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
+  <img src="./profile/stats.svg" alt="统计" height="118" />
+  &nbsp;
+  <img src="./profile/top-langs.svg" alt="语言分布" height="118" />
+  &nbsp;
+  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="连续贡献" height="118" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="连续贡献" height="150" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D 贡献图" width="720" style="max-width: 100%;" /></a>
+  <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D 贡献图" width="600" style="max-width: 100%;" /></a>
 </p>
 
 <br/>
@@ -61,8 +57,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="贡献图" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/git-goods/gitanimals"><img src="https://render.gitanimals.org/lines/castorhrio?contribution-view=false" alt="GitAnimals" width="1000" style="max-width: 100%;" /></a>
 </p>
 
 ---
