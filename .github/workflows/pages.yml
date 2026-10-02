@@ -1,0 +1,147 @@
+name: Publish localized README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.zh-CN.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Render README.zh-CN.md to a standalone page
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          {
+            echo '<!DOCTYPE html>'
+            echo '<html lang="zh-CN">'
+            echo '<head>'
+            echo '<meta charset="utf-8">'
+            echo '<meta name="viewport" content="width=device-width, initial-scale=1">'
+            echo '<title>Xyris · 简体中文</title>'
+            echo '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown-light.min.css">'
+            echo '<style>'
+            echo '  body { margin: 0; padding: 32px 16px; background: #fff; }'
+            echo '  .wrap { max-width: 900px; margin: 0 auto; }'
+            echo '  .bar { display: flex; align-items: center; justify-content: space-between;'
+            echo '         gap: 12px; margin-bottom: 24px; padding-bottom: 12px;'
+            echo '         border-bottom: 1px solid #d0d7de; }'
+            echo '  .bar a { color: #0969da; text-decoration: none; font-size: 14px; }'
+            echo '  .bar a:hover { text-decoration: underline; }'
+            echo '  .markdown-body img { max-width: 100%; height: auto; }'
+            echo '  .markdown-body table { display: table; width: 100%; }'
+            echo '  .md { border: 1px solid #d0d7de; border-radius: 6px; padding: 24px; }'
+            echo '</style>'
+            echo '</head>'
+            echo '<body>'
+            echo '<div class="wrap">'
+            echo '<div class="bar">'
+            echo '<a href="https://github.com/castorhrio">&larr; castorhrio</a>'
+            echo '<a href="https://castorhrio.github.io/castorhrio/">English</a>'
+            echo '</div>'
+            echo '<article class="markdown-body md">'
+          } > _site/index.html
+
+          # markdown -> HTML, without shelling out to a browser
+          if command -v pandoc >/dev/null 2>&1; then
+            pandoc -f gfm -t html README.zh-CN.md >> _site/index.html
+          else
+            python3 - <<'PY' >> _site/index.html
+          import re, html, sys
+
+          src = open('README.zh-CN.md', encoding='utf-8').read()
+          src = re.sub(r'<!--.*?-->', '', src, flags=re.S)
+
+          inline = [
+              (r'\*\*(.+?)\*\*', r'<strong>\1</strong>'),
+              (r'`([^`]+?)`', r'<code>\1</code>'),
+              (r'\[([^\]]+?)\]\(([^)]+?)\)', r'<a href="\2">\1</a>'),
+          ]
+
+          def img_sub(m):
+              tag = m.group(0)
+              src_m = re.search(r'src="([^"]+)"', tag)
+              alt_m = re.search(r'alt="([^"]*)"', tag)
+              if not src_m:
+                  return ''
+              return '<img src="%s" alt="%s">' % (src_m.group(1), alt_m.group(1) if alt_m else '')
+
+          out, pos = [], 0
+          for m in re.finditer(r'<img\b[^>]*>', src):
+              chunk = src[pos:m.start()]
+              pos = m.end()
+              for pat, rep in inline:
+                  chunk = re.sub(pat, rep, chunk)
+              chunk = re.sub(r'&nbsp;', '&#160;', chunk)
+              out.append(chunk)
+              out.append(img_sub(m))
+          out.append(src[pos:])
+
+          html_body = ''.join(out)
+          lines = html_body.split('\n')
+          res, i = [], 0
+          while i < len(lines):
+              ln = lines[i]
+              # table block
+              if ln.strip().startswith('|') and i + 1 < len(lines) and re.match(r'^\s*\|[\s:|-]+\|\s*$', lines[i+1]):
+                  def cells(row):
+                      return [c.strip() for c in row.strip().strip('|').split('|')]
+                  hdr = cells(ln); i += 2; body = []
+                  while i < len(lines) and lines[i].strip().startswith('|'):
+                      body.append(cells(lines[i])); i += 1
+                  res.append('<table><thead><tr>' + ''.join('<th>%s</th>' % c for c in hdr) + '</tr></thead><tbody>')
+                  for row in body:
+                      res.append('<tr>' + ''.join('<td>%s</td>' % c for c in row) + '</tr>')
+                  res.append('</tbody></table>')
+                  continue
+              if ln.startswith('### '):
+                  res.append('<h3>%s</h3>' % html.escape(ln[4:].strip())); i += 1; continue
+              if ln.startswith('## '):
+                  res.append('<h2>%s</h2>' % html.escape(ln[3:].strip())); i += 1; continue
+              if ln.startswith('# '):
+                  res.append('<h1>%s</h1>' % html.escape(ln[2:].strip())); i += 1; continue
+              if ln.strip() == '---':
+                  res.append('<hr>'); i += 1; continue
+              if re.match(r'^\s*[-*]\s+', ln) or re.match(r'^\s*\d+\.\s+', ln):
+                  if not (res and res[-1].startswith('<ul>')):
+                      res.append('<ul>')
+                  item = re.sub(r'^\s*(?:[-*]|\d+\.)\s+', '', ln)
+                  res.append('<li>%s</li>' % item)
+                  i += 1; continue
+              if res and res[-1].startswith('<ul>') and not re.match(r'^\s*(?:[-*]|\d+\.)\s+', ln):
+                  res.append('</ul>')
+              if ln.strip() == '':
+                  res.append('')
+              elif ln.strip() != '':
+                  res.append('<p>%s</p>' % ln)
+              i += 1
+          if res and res[-1].startswith('<ul>'):
+              res.append('</ul>')
+          print('\n'.join(res))
+          PY
+          fi
+
+          {
+            echo '</article>'
+            echo '</div>'
+            echo '</body>'
+            echo '</html>'
+          } >> _site/index.html
+
+      - name: Publish to gh-pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: gh-pages
+          build_dir: _site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
