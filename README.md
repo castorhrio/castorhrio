@@ -14,13 +14,13 @@ Most of my time goes into scalable backend architecture, distributed task orches
 Stack: **.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**. Currently exploring AI agents, self-hosted infrastructure, and automation workflows.
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/8B949E" height="26" alt=".NET" /></a>
-  <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/8B949E" height="26" alt="Go" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/8B949E" height="26" alt="MySQL" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/8B949E" height="26" alt="Redis" /></a>
-  <a href="https://rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/8B949E" height="26" alt="RabbitMQ" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/8B949E" height="26" alt="Docker" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/8B949E" height="26" alt="Linux" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/8B949E" height="30" alt=".NET" /></a>&nbsp;&nbsp;
+  <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/8B949E" height="27" alt="Go" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/8B949E" height="33" alt="MySQL" /></a>&nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/8B949E" height="21" alt="Redis" /></a>&nbsp;&nbsp;
+  <a href="https://rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/8B949E" height="21" alt="RabbitMQ" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/8B949E" height="27" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/8B949E" height="23" alt="Linux" /></a>
 </p>
 
 ### Featured work
