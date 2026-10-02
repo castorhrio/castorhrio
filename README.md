@@ -2,17 +2,12 @@
 
 # 你好，我是 Xyris
 
-后端工程师。我在做分布式系统、消息队列和高吞吐数据管道。
+后端工程师。我在做分布式系统、消息队列和高吞吐数据管道，日常更多是可扩展后端架构、分布式任务编排，以及那些不太光鲜但很关键的工作：重试、背压、优雅降级 —— 让系统能在生产环境里安静地活着。最近在探索 AI Agent、自托管基础设施和自动化工作流。
 
 <p align="center">
-  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" /></a>
-  <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" alt="Visitors" />
-</p>
-
-我大部分时间花在可扩展后端架构、分布式任务编排，以及那些不太光鲜但很关键的工作：重试、背压、优雅降级 —— 让系统能在生产环境里安静地活着。
-
-<p align="center">
+  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" height="26" /></a>
+  <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" height="26" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" height="26" alt="Visitors" />
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="26" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="26" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="26" /></a>
@@ -21,8 +16,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" height="26" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=tomato" alt="Linux" height="26" /></a>
 </p>
-
-最近在探索 AI Agent、自托管基础设施和自动化工作流。
 
 ### 代表作品
 

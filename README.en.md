@@ -2,17 +2,12 @@
 
 # Hi, I'm Xyris
 
-Backend engineer. I work on distributed systems, message queues, and high-throughput data pipelines.
+Backend engineer. I work on distributed systems, message queues, and high-throughput data pipelines — mostly scalable backend architecture, distributed task orchestration, and the unglamorous work of keeping systems stable under production load: retries, backpressure, graceful degradation. Currently exploring AI agents, self-hosted infrastructure, and automation workflows.
 
 <p align="center">
-  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" /></a>
-  <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" alt="Visitors" />
-</p>
-
-Most of my time goes into scalable backend architecture, distributed task orchestration, and the unglamorous work of keeping systems stable under production load — retries, backpressure, graceful degradation.
-
-<p align="center">
+  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" height="26" /></a>
+  <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" height="26" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" height="26" alt="Visitors" />
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="26" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="26" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="26" /></a>
