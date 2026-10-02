@@ -30,6 +30,12 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
+      - name: Reject error cards (keep last good on rate limit)
+        run: |
+          if grep -q "Something went wrong" profile/stats.svg profile/top-langs.svg 2>/dev/null; then
+            echo "::warning::Rate-limited card detected - restoring last committed version"
+            git checkout HEAD -- profile/stats.svg profile/top-langs.svg || true
+          fi
       # --- 3D Contribution ---
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
