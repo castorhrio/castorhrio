@@ -38,16 +38,6 @@
 ### 活跃度
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="统计" height="118" />
-  &nbsp;
-  <img src="./profile/top-langs.svg" alt="语言分布" height="118" />
-  &nbsp;
-  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="连续贡献" height="118" /></a>
-</p>
-
-<br/>
-
-<p align="center">
   <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D 贡献图" width="600" style="max-width: 100%;" /></a>
 </p>
 

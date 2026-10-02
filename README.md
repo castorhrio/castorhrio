@@ -38,16 +38,6 @@ More in the [repositories tab](https://github.com/castorhrio?tab=repositories). 
 ### Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Stats" height="118" />
-  &nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="118" />
-  &nbsp;
-  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="Contribution Streak" height="118" /></a>
-</p>
-
-<br/>
-
-<p align="center">
   <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions" width="600" style="max-width: 100%;" /></a>
 </p>
 
