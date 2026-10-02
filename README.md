@@ -4,7 +4,6 @@ Backend engineer. I work on distributed systems, message queues, and high-throug
 
 <p align="center">
   <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" /></a>
-  <a href="mailto:jojoseisai@gmail.com"><img src="https://img.shields.io/badge/Email-jojoseisai-8B949E?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" alt="Visitors" />
 </p>
@@ -41,7 +40,7 @@ More in the [repositories tab](https://github.com/castorhrio?tab=repositories). 
 
 技术栈：**.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**，最近在折腾 AI Agent、自托管基础设施和自动化工作流。
 
-[博客](https://ponponboy.cn/) · [邮箱](mailto:jojoseisai@gmail.com)
+[博客](https://ponponboy.cn/)
 
 </details>
 
