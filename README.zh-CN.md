@@ -43,6 +43,20 @@
   <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="连续贡献" height="150" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D 贡献图" width="720" style="max-width: 100%;" /></a>
+</p>
+
+<br/>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />

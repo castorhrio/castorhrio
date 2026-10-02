@@ -28,10 +28,10 @@ Stack: **.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**. Currentl
 
 | Project | What it is |
 | --- | --- |
-| **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | 面向初级开发者的系统设计教程 — 28 章中文精讲、127 条勘误、182 条补充 |
-| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn 驱动的 C# 调用图，每条边都来自编译器而非猜测；确定性，零 LLM |
-| **[rehearsal](https://github.com/castorhrio/rehearsal)** | 在本地演练和调试 GitHub Actions workflow，不用推 commit 试错 |
-| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Win10 任务栏图标居中 + 透明，不碰系统文件，可完全还原，中英双语 |
+| **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | A system design tutorial for junior developers — 28 chapters, 127 errata, 182 supplements (written in Chinese) |
+| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn-powered call maps for C#. Every edge comes from the compiler, not a guess. Deterministic, zero-LLM. |
+| **[rehearsal](https://github.com/castorhrio/rehearsal)** | Rehearse and debug GitHub Actions workflows locally — no more trial-and-error commits. |
+| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Centred, translucent Win10 taskbar with start-menu tiles. No system files touched, fully reversible, bilingual UI. |
 
 More in the [repositories tab](https://github.com/castorhrio?tab=repositories). Writing up at [ponponboy.cn](https://ponponboy.cn/).
 
@@ -42,6 +42,20 @@ More in the [repositories tab](https://github.com/castorhrio?tab=repositories). 
   &nbsp;&nbsp;&nbsp;
   <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
 </p>
+
+<br/>
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="Contribution Streak" height="150" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions" width="720" style="max-width: 100%;" /></a>
+</p>
+
+<br/>
 
 <p align="center">
   <picture>
