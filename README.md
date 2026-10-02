@@ -4,6 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Distributed+systems+%26+reliability;Queues+%C2%B7+Retries+%C2%B7+Production;Code+is+craftsmanship" alt="Typing SVG" />
 
+<p>
+  <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-00D2FF?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="mailto:jojoseisai@gmail.com"><img src="https://img.shields.io/badge/Email-jojoseisai-8B949E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/castorhrio?tab=followers"><img src="https://img.shields.io/github/followers/castorhrio?style=flat-square&color=8B949E&label=Followers" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=00D2FF&label=Visitors" alt="Visitors" />
+</p>
+
 </div>
 
 ---
@@ -31,6 +38,19 @@ and systems that quietly survive production.
 
 Working with:
 .NET 8 · Go · Rust · MySQL · Redis · RabbitMQ
+
+<div align="center">
+
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" height="36" alt=".NET" /></a>
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="36" alt="Go" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" /></a>
+<a href="https://rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="36" alt="RabbitMQ" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" /></a>
+
+</div>
 
 Currently exploring:
 AI agents · self-hosted infrastructure · automation workflows
@@ -89,12 +109,25 @@ AI Agent · 自托管基础设施 · 自动化工作流
   <img src="./profile/stats.svg" alt="Stats" height="150" />
   &nbsp;&nbsp;
   <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
+  <br/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=castorhrio&hide_border=true&background=00000000&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&currStreakNum=FFFFFF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions" width="720" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
