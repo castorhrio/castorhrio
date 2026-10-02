@@ -1,10 +1,10 @@
-name: Publish localized README
+name: Publish English README
 
 on:
   push:
     branches: [main]
     paths:
-      - 'README.zh-CN.md'
+      - 'README.en.md'
   workflow_dispatch:
 
 permissions:
@@ -18,17 +18,17 @@ jobs:
         with:
           ref: main
 
-      - name: Render README.zh-CN.md to a standalone page
+      - name: Render README.en.md to a standalone page
         run: |
           set -euo pipefail
           mkdir -p _site
           {
             echo '<!DOCTYPE html>'
-            echo '<html lang="zh-CN">'
+            echo '<html lang="en">'
             echo '<head>'
             echo '<meta charset="utf-8">'
             echo '<meta name="viewport" content="width=device-width, initial-scale=1">'
-            echo '<title>Xyris · 简体中文</title>'
+            echo '<title>Xyris · English</title>'
             echo '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown-light.min.css">'
             echo '<style>'
             echo '  body { margin: 0; padding: 32px 16px; background: #fff; }'
@@ -50,19 +50,19 @@ jobs:
             echo '<div class="wrap">'
             echo '<div class="bar">'
             echo '<a href="https://github.com/castorhrio">&larr; castorhrio</a>'
-            echo '<a href="https://github.com/castorhrio">English</a>'
+            echo '<a href="https://github.com/castorhrio">简体中文</a>'
             echo '</div>'
             echo '<article class="markdown-body md">'
           } > _site/index.html
 
           # markdown -> HTML, without shelling out to a browser
           if command -v pandoc >/dev/null 2>&1; then
-            pandoc -f gfm -t html README.zh-CN.md >> _site/index.html
+            pandoc -f gfm -t html README.en.md >> _site/index.html
           else
             python3 - <<'PY' >> _site/index.html
           import re, html, sys
 
-          src = open('README.zh-CN.md', encoding='utf-8').read()
+          src = open('README.en.md', encoding='utf-8').read()
           src = re.sub(r'<!--.*?-->', '', src, flags=re.S)
           # drop the in-page language switcher; the site header already offers it
           src = re.sub(r'(?m)^\s*[^\n]*README\.md[^\n]*\n?', '', src, count=1)

@@ -1,8 +1,8 @@
-[简体中文](https://castorhrio.github.io/castorhrio/) | **English**
+**简体中文** | [English](https://castorhrio.github.io/castorhrio/)
 
-# Hi, I'm Xyris
+# 你好，我是 Xyris
 
-Backend engineer. I work on distributed systems, message queues, and high-throughput data pipelines.
+后端工程师。我在做分布式系统、消息队列和高吞吐数据管道。
 
 <p align="center">
   <a href="https://ponponboy.cn/"><img src="https://img.shields.io/badge/Blog-ponponboy.cn-8B949E?style=flat-square&logo=rss" alt="Blog" /></a>
@@ -10,7 +10,7 @@ Backend engineer. I work on distributed systems, message queues, and high-throug
   <img src="https://komarev.com/ghpvc/?username=castorhrio&style=flat-square&color=8B949E&label=Visitors" alt="Visitors" />
 </p>
 
-Most of my time goes into scalable backend architecture, distributed task orchestration, and the unglamorous work of keeping systems stable under production load — retries, backpressure, graceful degradation.
+我大部分时间花在可扩展后端架构、分布式任务编排，以及那些不太光鲜但很关键的工作：重试、背压、优雅降级 —— 让系统能在生产环境里安静地活着。
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="26" /></a>
@@ -22,21 +22,23 @@ Most of my time goes into scalable backend architecture, distributed task orches
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=tomato" alt="Linux" height="26" /></a>
 </p>
 
-### Featured work
+最近在探索 AI Agent、自托管基础设施和自动化工作流。
 
-| Project | What it is |
+### 代表作品
+
+| 项目 | 是什么 |
 | --- | --- |
-| **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | A system design tutorial for junior developers — 28 chapters, 127 errata, 182 supplements (written in Chinese) |
-| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn-powered call maps for C#. Every edge comes from the compiler, not a guess. Deterministic, zero-LLM. |
-| **[rehearsal](https://github.com/castorhrio/rehearsal)** | Rehearse and debug GitHub Actions workflows locally — no more trial-and-error commits. |
-| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Centred, translucent Win10 taskbar with start-menu tiles. No system files touched, fully reversible, bilingual UI. |
+| **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [在线](https://castorhrio.github.io/system-design-guide/) | 面向初级开发者的系统设计教程 — 28 章中文精讲、127 条勘误、182 条补充 |
+| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn 驱动的 C# 调用图，每条边都来自编译器而非猜测；确定性，零 LLM |
+| **[rehearsal](https://github.com/castorhrio/rehearsal)** | 在本地演练和调试 GitHub Actions workflow，不用推 commit 试错 |
+| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Win10 任务栏图标居中 + 透明，不碰系统文件，可完全还原，中英双语 |
 
-More in the [repositories tab](https://github.com/castorhrio?tab=repositories). Writing up at [ponponboy.cn](https://ponponboy.cn/).
+更多项目见[仓库页](https://github.com/castorhrio?tab=repositories)。技术写作见 [ponponboy.cn](https://ponponboy.cn/)。
 
-### Activity
+### 活跃度
 
 <p align="center">
-  <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions" width="600" style="max-width: 100%;" /></a>
+  <a href="https://github.com/castorhrio/castorhrio/blob/main/profile-3d-contrib/profile-customize.svg"><img src="./profile-3d-contrib/profile-customize.svg" alt="3D 贡献图" width="600" style="max-width: 100%;" /></a>
 </p>
 
 <br/>
@@ -45,7 +47,7 @@ More in the [repositories tab](https://github.com/castorhrio?tab=repositories). 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="贡献图" src="https://raw.githubusercontent.com/castorhrio/castorhrio/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
