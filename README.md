@@ -1,4 +1,4 @@
-[简体中文](./README.zh-CN.md) | **English**
+[简体中文](https://castorhrio.github.io/castorhrio/) | **English**
 
 # Hi, I'm Xyris
 
