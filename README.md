@@ -14,13 +14,13 @@ Most of my time goes into scalable backend architecture, distributed task orches
 Stack: **.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**. Currently exploring AI agents, self-hosted infrastructure, and automation workflows.
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/8B949E" height="30" alt=".NET" /></a>&nbsp;&nbsp;
-  <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/8B949E" height="27" alt="Go" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/8B949E" height="33" alt="MySQL" /></a>&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/8B949E" height="36" alt=".NET" /></a>&nbsp;&nbsp;
+  <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/8B949E" height="31" alt="Go" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/8B949E" height="38" alt="MySQL" /></a>&nbsp;&nbsp;
   <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/8B949E" height="21" alt="Redis" /></a>&nbsp;&nbsp;
-  <a href="https://rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/8B949E" height="21" alt="RabbitMQ" /></a>&nbsp;&nbsp;
+  <a href="https://rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/8B949E" height="19" alt="RabbitMQ" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/8B949E" height="27" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/8B949E" height="23" alt="Linux" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/8B949E" height="20" alt="Linux" /></a>
 </p>
 
 ### Featured work
@@ -28,9 +28,9 @@ Stack: **.NET · Go · MySQL · Redis · RabbitMQ · Docker · Linux**. Currentl
 | Project | What it is |
 | --- | --- |
 | **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | 面向初级开发者的系统设计教程 — 28 章中文精讲、127 条勘误、182 条补充 |
-| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn 驱动的 C# 调用图,每条边都来自编译器而非猜测;确定性,零 LLM |
-| **[rehearsal](https://github.com/castorhrio/rehearsal)** | 在本地演练和调试 GitHub Actions workflow,不用推 commit 试错 |
-| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Win10 任务栏图标居中 + 透明,不碰系统文件,可完全还原,中英双语 |
+| **[callatlas](https://github.com/castorhrio/callatlas)** | Roslyn 驱动的 C# 调用图，每条边都来自编译器而非猜测；确定性，零 LLM |
+| **[rehearsal](https://github.com/castorhrio/rehearsal)** | 在本地演练和调试 GitHub Actions workflow，不用推 commit 试错 |
+| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Win10 任务栏图标居中 + 透明，不碰系统文件，可完全还原，中英双语 |
 
 More in the [repositories tab](https://github.com/castorhrio?tab=repositories). Writing up at [ponponboy.cn](https://ponponboy.cn/).
 
