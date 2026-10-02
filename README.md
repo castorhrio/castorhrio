@@ -30,8 +30,8 @@
 | --- | --- |
 | **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [在线](https://castorhrio.github.io/system-design-guide/) | 系统设计教程，28 章中文讲解，配 127 条勘误 |
 | **[callatlas](https://github.com/castorhrio/callatlas)** | C# 调用图工具，每条边都来自编译器，不用猜 |
-| **[rehearsal](https://github.com/castorhrio/rehearsal)** | 在本地跑 GitHub Actions，不用推 commit 试错 |
-| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Win10 任务栏居中 + 透明，不动系统文件，可还原 |
+| **[rehearsal](https://github.com/castorhrio/rehearsal)** | 在本地跑 GitHub Actions，还能像调试器那样单步执行 |
+| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Win10 任务栏居中 + 透明，菜单中英自动切换，不动系统文件 |
 
 更多项目见[仓库页](https://github.com/castorhrio?tab=repositories)。技术写作见 [ponponboy.cn](https://ponponboy.cn/)。
 

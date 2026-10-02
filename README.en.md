@@ -30,8 +30,8 @@ The stack is .NET and Go for services, MySQL and Redis for data, RabbitMQ for me
 | --- | --- |
 | **[system-design-guide](https://github.com/castorhrio/system-design-guide)** · [live](https://castorhrio.github.io/system-design-guide/) | A system design tutorial, 28 chapters in Chinese, with 127 errata |
 | **[callatlas](https://github.com/castorhrio/callatlas)** | Call graph tool for C#. Every edge comes from the compiler, none guessed |
-| **[rehearsal](https://github.com/castorhrio/rehearsal)** | Run GitHub Actions locally instead of pushing commits to test |
-| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Centred translucent Win10 taskbar. No system files, fully reversible |
+| **[rehearsal](https://github.com/castorhrio/rehearsal)** | Run GitHub Actions locally and step through jobs like a debugger |
+| **[win10-desktop-beautifier](https://github.com/castorhrio/win10-desktop-beautifier)** | Centred translucent Win10 taskbar, menu switches between Chinese and English, no system files |
 
 More in the [repositories tab](https://github.com/castorhrio?tab=repositories). Writing up at [ponponboy.cn](https://ponponboy.cn/).
 
